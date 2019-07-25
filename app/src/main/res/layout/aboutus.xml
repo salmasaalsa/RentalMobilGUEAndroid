@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#3ed4d6">
+
+    <ImageView
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:src="@drawable/tes2"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+    />
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Di Rental Mobil GUE, kami tidak hanya bangga menjadi perusahaan rental mobil terkemuka yang menawarkan mobil kualitas terbaik dan layanan yang sangat efisien, tetapi kami juga merupakan perusahaan yang memenuhi setiap kebutuhan Anda, membawa Anda ke mana pun yang ingin Anda tuju."
+            android:textSize="16dp"
+            android:textColor="#000"
+    />
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Rental Mobil GUE adalah kata terakhir dalam berkendara. Jadi, jika Anda mencari teman seperjalanan yang dapat memenuhi setiap kebutuhan Anda, seharusnya tidak ada pilihan lain. Hanya Rental Mobil GUE yang ada di sisi Anda di mana pun Anda berada di jalan yang sulit sepanjang hidup."
+            android:textSize="16dp"
+            android:textColor="#000"
+    />
+
+</LinearLayout>
